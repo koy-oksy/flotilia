@@ -23,7 +23,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'http://localhost/flotolia/public/';
+    public $baseURL = 'http://localhost/flotilia/public/';
 
     /**
      * --------------------------------------------------------------------------
