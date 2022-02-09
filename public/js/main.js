@@ -4,7 +4,6 @@
 
 jQuery(document).ready(function($) {
 
-
     'use strict';
 
     var top_header = $('.parallax-content');

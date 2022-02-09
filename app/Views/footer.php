@@ -46,7 +46,7 @@
                     -->
 
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2542.8242203729797!2d30.605573367514875!3d50.407113443391694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4c5af90fe0531%3A0xc8ab82351d22d648!2sRiviera!5e0!3m2!1sru!2sua!4v1644272225283!5m2!1sru!2sua" width="100%" height="390" frameborder="0" style="border:0" allowfullscreen></iframe>
-                        
+
                     </div>
                 </div>
             </div>
@@ -127,6 +127,7 @@
 <script src="<?php echo base_url('js/vendor/bootstrap.min.js') ?>"></script>
 <script src="<?php echo base_url('js/plugins.js') ?>"></script>
 <script src="<?php echo base_url('js/main.js') ?>"></script>
-<script src="<?php echo base_url('js/foto.js') ?>"></script>
 <script src="<?php echo base_url('js/owl.carousel.min.js') ?>"></script>
+<script defer src="<?php echo base_url('slick-1.8.1/slick/slick.min.js') ?>"></script>
+<script src="<?php echo base_url('tags/app.js') ?>"></script>
 <script src="<?php echo base_url('js/scripts.js') ?>"></script>

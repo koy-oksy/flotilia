@@ -14,7 +14,7 @@ class Shark extends BaseController
                 'tags' => 'отдых, корпоративы, девичники, свадьбы, фотосессии, катамаран, яхта, Киев, река',
             ]
         ];
-        return view('srark', $data);
+        return view('shark', $data);
     }
 }
 
