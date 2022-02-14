@@ -12,9 +12,9 @@ section {
 }
 
 body {
+    font-family: "Open Sans", sans-serif;
     position: relative;
     font-size: 14px;
-    font-style: italic;
 }
 
 a {
@@ -517,7 +517,7 @@ a:focus {
     position: relative;
     margin: 0 auto 45px auto;
     padding: 30px 15px;
-    background: #003259;
+    background: #3894da;
     text-align: center;
 }
 
@@ -569,6 +569,7 @@ a:focus {
     position: relative;
     margin-bottom: 45px;
     color: #dddddd;
+    text-align: justify;
 }
 
 .footer .footer-about h3,
@@ -593,7 +594,6 @@ a:focus {
 .footer .footer-link a::before {
     position: relative;
     content: "\f105";
-    font-family: "Font Awesome 5 Free";
     margin-right: 10px;
 }
 
@@ -746,7 +746,5 @@ a:focus {
     }
 }
 
-.akcia {}
-
-
+@media
 /* LIGHT BOX */
